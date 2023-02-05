@@ -1,5 +1,3 @@
-# this is comment
-
 output hello1 {
-    value = "hello world123"
+    value = "hello surbhi"
 }
